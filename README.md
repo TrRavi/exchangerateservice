@@ -23,7 +23,7 @@ which can be consumed by front-end application.
 
 **Language & Framework:** Java 11 with Spring Boot and Spring-data-jpa
 
-**Buld Tool:** Maven
+**Build Tool:** Maven
 
 **Server:** Apache Tomcat
 
